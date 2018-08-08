@@ -1,0 +1,18 @@
+#main {
+  background-color: beige;
+  border-radius: 5px;
+  margin: 20px auto;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+}
+#title {
+  text-align: center;
+}
+#img-div {
+  background-color: lightgray;
+  text-align: center;
+}
+#tribute-info {
+  margin: 20px 0px;
+}
